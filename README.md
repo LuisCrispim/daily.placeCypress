@@ -53,19 +53,23 @@ Execute todos os testes em modo headless (sem interface gráfica):
 npx cypress run
 
 ## Estrutura do Projeto
+
 A estrutura do projeto está organizada da seguinte forma:
 
-cypress/integration: Contém os arquivos de teste.
-cypress/fixtures: Contém dados de exemplo utilizados nos testes.
-cypress/support: Contém comandos customizados e funções de suporte.
+- **`cypress/integration`:** Contém os arquivos de teste.
+- **`cypress/fixtures`:** Contém dados de exemplo utilizados nos testes.
+- **`cypress/support`:** Contém comandos customizados e funções de suporte.
 
-Contribuições
+
+## Contribuições
+
 Este é um projeto pessoal em desenvolvimento, mas sugestões e contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
 
 ## Contato
 
 Para mais informações sobre este projeto ou para discutir oportunidades de colaboração, você pode me encontrar em:
 
-GitHub: LuisCrispim
-LinkedIn: https://www.linkedin.com/in/lu%C3%ADs-felipe-crispim/
-Email: luisfelipecrispim@hotmail.com
+- **GitHub:** https://github.com/LuisCrispim
+- **LinkedIn:** https://www.linkedin.com/in/lu%C3%ADs-felipe-crispim/
+- **Email:** luisfelipecrispim@hotmail.com
